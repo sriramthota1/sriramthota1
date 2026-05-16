@@ -1,74 +1,77 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&height=80&lines=hi%2C+I'm+Sriram+Thota.;I+build+minds+from+data.;AI+%2F+ML+%2F+Deep+Learning.;Junior+%40+SR+University.;let's+build+something+real." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20,30&height=220&section=header&text=SRIRAM%20THOTA&fontSize=65&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=MS%20Computer%20Science%20%40%20University%20of%20Florida&descAlignY=82&descSize=16" />
 
-<!-- CAPSULE RENDER HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20,30&height=200&section=header&text=SRIRAM%20THOTA&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=SWE%20%&%20@AI%20%2F%20ML%20Engineer%20in%20the%20Making&descAlignY=85&descSize=16" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=Graduate+Research+Assistant+%E2%80%94+ML+Inference+Pipelines.;SWE+%C3%97+AI%2FML+%E2%80%94+I+build+systems+that+think.;Distributed+systems%2C+Transformers%2C+LLM's.;Python+%7C+Go+%7C+Gleam+%7C+PyTorch+%7C+HuggingFace." />
 
 </div>
 
 ---
 
 <table width="100%"><tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-## `> identity.json`
+## `> whoami`
 
-```json
-{
-  "name"       : "Sriram Thota",
-  "alias"      : "sriramthota1",
-  "class"      : "AI / ML Engineer",
-  "level"      : 3,
-  "university" : "SR University",
-  "status"     : "🟢 open to collabs",
+```python
+class SriramThota:
 
-  "interests"  : [
-    "🧠 Deep Learning",
-    "👁  Computer Vision",
-    "💬 NLP & LLMs",
-    "📊 Data Science"
-  ],
+  # ── CURRENT ───────────────────────
+  degree    = "MS in Computer Science"
+  university = "University of Florida"
+  role      = "Graduate Research Assistant"
+  research  = "ML Inference Pipelines"
+  status    = "🟢 open to opportunities"
 
-  "currently"  : {
-    "reading"  : "Attention Is All You Need",
-    "building" : "AI-powered web apps",
-    "grinding" : "Kaggle + arxiv daily"
-  },
+  # ── DUAL IDENTITY ─────────────────
+  swe  = ["systems", "backend", "infra"]
+  aiml = ["inference", "transformers",
+          "data pipelines", "training"]
 
-  "motto": "Train hard.
-            Tune well.
-            Deploy fearlessly."
-}
+  # ── EXPLORING ─────────────────────
+  currently_deep_diving = [
+    "Distributed Systems",
+    "Actor Model & Concurrency",
+    "Gleam / Erlang / BEAM VM",
+    "ML Inference Optimization",
+    "Concurrent Execution Patterns",
+  ]
+
+  def __repr__(self):
+    return "engineer who ships systems
+            AND optimizes models"
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
-## `> now_running.log`
+## `> research.log`
 
 ```
-[2025] ══════════════════════════
-
- ACTIVE THREADS
- ├─ transformers ............. ✓
- ├─ keras / tensorflow ....... ✓
- ├─ open source PRs .......... ⏳
- └─ research paper ........... ⏳
-
- QUEUE
- ├─ → kaggle top 10%
- ├─ → first publication
- └─ → AI lab internship
-
- RESOURCES
- ├─ CPU ........... [ 95% 🔥 ]
- ├─ RAM ........... [ 88% 📈 ]
- └─ coffee.jar .... [ 12% ⚠️ ]
-
-[STATUS]: hustle.exe RUNNING
-══════════════════════════════
+╔═════════════════════════════════╗
+║  GRA · UNIVERSITY OF FLORIDA   ║
+╠═════════════════════════════════╣
+║                                 ║
+║  FOCUS                          ║
+║  └─ ML Inference Pipelines      ║
+║     ├─ model serving at scale   ║
+║     ├─ latency optimization     ║
+║     ├─ transformer inference    ║
+║     └─ pipeline orchestration   ║
+║                                 ║
+║  STACK IN RESEARCH              ║
+║  ├─ PyTorch ................ ✓  ║
+║  ├─ HuggingFace ............ ✓  ║
+║  ├─ ONNX / TensorRT ........ ✓  ║
+║  ├─ MLflow / W&B ........... ✓  ║
+║  └─ Docker + K8s ........... ✓  ║
+║                                 ║
+║  CPU ████████░░  82% 🔥         ║
+║  GPU ████████░░  89% 🔥         ║
+║  ☕  ███░░░░░░░  30% ⚠️          ║
+╚═════════════════════════════════╝
 ```
 
 </td>
@@ -76,54 +79,109 @@
 
 ---
 
-## ⚙️ FULL STACK ARCHITECTURE
+## ⚙️ FULL STACK — EVERY LAYER
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                      SRIRAM · STACK · v3.0                       │
-└─────────────────────────────┬────────────────────────────────────┘
-                               │
-         ┌─────────────────────┼─────────────────────┐
-         │                     │                     │
-   ┌─────▼──────┐       ┌──────▼──────┐       ┌──────▼──────┐
-   │  FRONTEND  │       │   AI / ML   │       │  DATA / DB  │
-   ├────────────┤       ├─────────────┤       ├─────────────┤
-   │ HTML5      │       │ Python      │       │ MySQL       │
-   │ CSS3       │       │ TensorFlow  │       │ MongoDB     │
-   │ JavaScript │       │ Keras       │       │ Pandas      │
-   │ Bootstrap  │       │ NumPy       │       │ Matplotlib  │
-   └─────┬──────┘       └──────┬──────┘       └──────┬──────┘
-         │                     │                     │
-         └──────────────────── ┼ ────────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │  DESIGN / DEPLOY    │
-                    │  Figma · Adobe XD   │
-                    │  Vercel · Heroku    │
-                    │  Render · Photoshop │
-                    └─────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                         SRIRAM · STACK · v4.0 (grad edition)               │
+├──────────────────┬─────────────────────┬───────────────────────────────────┤
+│   LANGUAGES      │   AI / ML           │   SYSTEMS & INFRA                 │
+├──────────────────┼─────────────────────┼───────────────────────────────────┤
+│                  │                     │                                   │
+│  Python          │  PyTorch            │  Docker / Kubernetes              │
+│  JavaScript / TS │  TensorFlow / Keras │  FastAPI / Flask                  │
+│  Go              │  HuggingFace 🤗     │  PostgreSQL / MongoDB             │
+│  C / C++         │  ONNX / TensorRT    │  Redis / Kafka / RabbitMQ         │
+│  Java            │  NumPy / Pandas     │  Linux / Bash                     │
+│  Gleam / Erlang  │  Matplotlib         │  Git / GitHub Actions             │
+│  SQL             │  Scikit-learn       │                                   │
+│                  │  MLflow / W&B       │  EXPLORING                        │
+│                  │                     │  Actor Model (BEAM VM)            │
+│                  │                     │  Concurrent Execution             │
+│                  │                     │  Distributed Systems              │
+└──────────────────┴─────────────────────┴───────────────────────────────────┘
 ```
 
 ---
 
-## 🧬 SKILL MATRIX
+## 🧠 WHAT I ACTUALLY BUILD
+
+```
+ RESEARCH TRACK                        ENGINEERING TRACK
+ ──────────────                        ─────────────────
+
+  Transformer Inference Pipelines       Full-Stack Web Applications
+  ├─ optimize latency & throughput      ├─ REST APIs with FastAPI / Flask
+  ├─ ONNX export & TensorRT opt.        ├─ JS/TS frontends
+  └─ multi-model serving                └─ PostgreSQL + MongoDB backends
+
+  ML Data Pipelines                     Systems & Distributed Computing
+  ├─ preprocessing at scale             ├─ Actor model patterns
+  ├─ feature engineering                ├─ Gleam / Erlang / BEAM VM
+  └─ W&B experiment tracking           └─ Kafka / Redis message queues
+
+  Model Training & Evaluation           DevOps & Infra
+  ├─ PyTorch + HuggingFace              ├─ Docker + Kubernetes
+  ├─ fine-tuning LLMs                   ├─ GitHub Actions CI/CD
+  └─ MLflow lifecycle mgmt              └─ Linux environments
+```
+
+---
+
+## 📊 SKILL MATRIX
 
 <div align="center">
 
-| Domain | Level | Progress |
-|--------|-------|----------|
-| Python & Data Science | `Proficient` | `█████████░` 90% |
-| Deep Learning (CNN · RNN) | `Intermediate` | `███████░░░` 70% |
-| NLP & Transformers | `Learning` | `█████░░░░░` 50% |
-| Computer Vision | `Intermediate` | `██████░░░░` 60% |
-| Web Development | `Proficient` | `████████░░` 80% |
-| MLOps & Deployment | `Beginner` | `████░░░░░░` 40% |
+### 🤖 AI / ML & Research
+
+| Skill | Level | Bar |
+|-------|-------|-----|
+| Python & Data Science | `Expert` | `█████████░` 92% |
+| PyTorch / TensorFlow | `Advanced` | `████████░░` 82% |
+| HuggingFace & Transformers | `Advanced` | `████████░░` 80% |
+| ML Inference (ONNX/TRT) | `Advanced` | `███████░░░` 75% |
+| MLflow / W&B / Experiment Tracking | `Proficient` | `███████░░░` 70% |
+| NLP & LLM Fine-tuning | `Proficient` | `██████░░░░` 65% |
+
+### ⚙️ Systems & Software Engineering
+
+| Skill | Level | Bar |
+|-------|-------|-----|
+| Go | `Proficient` | `███████░░░` 70% |
+| C / C++ | `Intermediate` | `██████░░░░` 60% |
+| Docker / Kubernetes | `Advanced` | `████████░░` 80% |
+| FastAPI / Flask | `Advanced` | `████████░░` 80% |
+| Kafka / Redis / MQ | `Proficient` | `███████░░░` 70% |
+| Distributed Systems | `Learning` | `█████░░░░░` 50% |
+| Gleam / Actor Model | `Exploring` | `████░░░░░░` 35% |
 
 </div>
 
 ---
 
-## 📡 SIGNAL METRICS
+## 🎯 MISSION BOARD
+
+```
+ ╔═══════════════════════════════════════════════════════════════╗
+ ║                      ACTIVE OBJECTIVES                        ║
+ ╠═══════════════════════════════════════════╦═══════════════════╣
+ ║  RESEARCH                                 ║  ENGINEERING      ║
+ ║  ─────────────────────────────────        ║  ───────────────  ║
+ ║  [✓] ML inference pipeline research       ║  [✓] full-stack   ║
+ ║  [✓] transformer optimization             ║  [✓] REST APIs    ║
+ ║  [✓] data pipeline architecture           ║  [✓] containerize ║
+ ║  [ ] publish first paper                  ║  [ ] OSS contrib  ║
+ ║  [ ] benchmark SOTA inference             ║  [ ] build w/     ║
+ ║  [ ] deploy research prototype            ║       Gleam/BEAM  ║
+ ╠═══════════════════════════════════════════╩═══════════════════╣
+ ║  NORTH STAR: Research Engineer / MLE at a top AI lab or      ║
+ ║              systems-focused startup                         ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📡 STATS
 
 <div align="center">
 
@@ -152,21 +210,9 @@
 </picture>
 </div>
 
-> 🔧 **To enable the snake:** Go to your repo → Actions → set up the [platane/snk](https://github.com/Platane/snk) workflow. It auto-generates this animation from your contributions.
-
 ---
 
-## 🏆 TOP CONTRIBUTIONS
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=sriramthota1&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
-## 🌐 TRANSMIT
+## 🌐 CONNECT
 
 <div align="center">
 
@@ -189,16 +235,15 @@
 <div align="center">
 
 ```
-  ∂L/∂w  ←  backprop  →  weights update  →  model improves  →  repeat forever
+  inference latency ↓  ·  throughput ↑  ·  systems that scale  ·  models that ship
 ```
 
-<sub><i>Every commit is a training step.</i></sub>
+*Research that runs in production. Code that thinks.*
 
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sriramthota1.sriramthota1&left_color=7c3aed&right_color=00d4ff&left_text=minds+visited)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sriramthota1.sriramthota1&left_color=7c3aed&right_color=00d4ff&left_text=engineers+visited)
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,30&height=80&section=footer"/>
 
 </div>
