@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&height=80&lines=hi%2C+I'm+Sriram+Thota.;I+build+minds+from+data.;AI+%2F+ML+%2F+Deep+Learning.;Junior+%40+SR+University.;let's+build+something+real." alt="Typing SVG" />
 
 <!-- CAPSULE RENDER HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20,30&height=200&section=header&text=SRIRAM%20THOTA&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20in%20the%20Making&descAlignY=85&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20,30&height=200&section=header&text=SRIRAM%20THOTA&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=SWE%20%&%20@AI%20%2F%20ML%20Engineer%20in%20the%20Making&descAlignY=85&descSize=16" />
 
 </div>
 
